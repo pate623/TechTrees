@@ -11,12 +11,12 @@ FullName:Minion Pro Italic
 MenuName:Minion Pro
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\Pate\Desktop\Jotain Muuta\gitHub\techTrees\patch 1,14\all Folder\Document fonts\MinionPro-It.otf
+OutlineFileName:C:\Users\Pate\Desktop\Jotain Muuta\gitHub\techTrees\Document fonts\MinionPro-It.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:258056
-FileModTime:1329300920
+FileModTime:1329297320
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -36,12 +36,12 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Pate\Desktop\Jotain Muuta\gitHub\techTrees\patch 1,14\all Folder\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\Pate\Desktop\Jotain Muuta\gitHub\techTrees\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:217280
-FileModTime:1329300920
+FileModTime:1329297320
 WeightClass:400
 WidthClass:5
 AngleClass:0
