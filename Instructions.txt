@@ -2,9 +2,9 @@ ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
 PUBLICATION NAME: all.indd
 
-PACKAGE DATE: 11.5.2020 22:32
-Creation Date: 11.5.2020
-Modification Date: 11.5.2020
+PACKAGE DATE: 8.8.2020 15:21
+Creation Date: 8.8.2020
+Modification Date: 8.8.2020
 
 CONTACT INFORMATION
 
@@ -49,7 +49,7 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 1035 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Links and Images: 1199 Links Found; 0 Modified, 0 Missing 0 Inaccessible
 Images: 0 Embedded, 0 use RGB color space
 
 
@@ -80,8 +80,8 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. all.indd; type: Adobe InDesign publication; size: 37980K
-2. all.idml; type: InDesign Markup Document; size: 8802K
-3. all.pdf; type: Adobe Acrobat Document; size: 13858K
+1. all.indd; type: Adobe InDesign publication; size: 43432K
+2. all.idml; type: InDesign Markup Document; size: 10165K
+3. all.pdf; type: Adobe Acrobat Document; size: 14129K
 4. MinionPro-It.otf; type: Font file; size: 252K
 5. MinionPro-Regular.otf; type: Font file; size: 212K
