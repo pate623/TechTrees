@@ -1,0 +1,32 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.exe
+*.o
+*.so
+
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+.ftpquota
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# Visual studio set up files #
+##############################
+.user
+.csproj
+sln
